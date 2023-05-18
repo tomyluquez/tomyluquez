@@ -1,6 +1,6 @@
 
-### Hola! soy Tomas Luquez 👋
-Frontend Developer 🎨
+<h1>Hola! soy Tomas Luquez</h1> 👋
+<h2>Frontend Developer</h2> 🎨
 
 - Soy de la provincia de Cordoba, Argentina 
 - Soy estudiante y un apasionado del desarrollador web frontend con experiencia en HTML, CSS, JavaScript, React y Redux., entre otras 
